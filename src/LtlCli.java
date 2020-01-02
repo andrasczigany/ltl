@@ -20,7 +20,7 @@ import jcurses.system.Toolkit;
 
 public class LtlCli {
 
-	private static final String MATCH_HEADING_IDENTIFIER = "’19.";
+	private static final String MATCH_HEADING_IDENTIFIER = "’20.";
 	private static final String SPLITTER = " XX ";
 	private static final String SCORES_SPLITTER = " <vs.> ";
 	private static final String FIRST_HALF = "1.  f é l i d õ";
